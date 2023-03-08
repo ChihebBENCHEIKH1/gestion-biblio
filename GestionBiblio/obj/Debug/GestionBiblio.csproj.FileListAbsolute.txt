@@ -1,0 +1,11 @@
+C:\BIB-EMSIApp\GestionBiblio\obj\Debug\GestionBiblio.csproj.AssemblyReference.cache
+C:\BIB-EMSIApp\GestionBiblio\obj\Debug\GestionBiblio.csproj.SuggestedBindingRedirects.cache
+C:\BIB-EMSIApp\GestionBiblio\obj\Debug\GestionBiblio.dashboard.resources
+C:\BIB-EMSIApp\GestionBiblio\obj\Debug\GestionBiblio.Form1.resources
+C:\BIB-EMSIApp\GestionBiblio\obj\Debug\GestionBiblio.gestioncd.resources
+C:\BIB-EMSIApp\GestionBiblio\obj\Debug\GestionBiblio.gestionemp.resources
+C:\BIB-EMSIApp\GestionBiblio\obj\Debug\GestionBiblio.gestionlivre.resources
+C:\BIB-EMSIApp\GestionBiblio\obj\Debug\GestionBiblio.gestionperiodique.resources
+C:\BIB-EMSIApp\GestionBiblio\obj\Debug\GestionBiblio.Properties.Resources.resources
+C:\BIB-EMSIApp\GestionBiblio\obj\Debug\GestionBiblio.csproj.GenerateResource.cache
+C:\BIB-EMSIApp\GestionBiblio\obj\Debug\GestionBiblio.csproj.CoreCompileInputs.cache

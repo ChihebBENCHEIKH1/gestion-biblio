@@ -8,9 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("GestionBiblio")]
 [assembly: AssemblyDescription("Application C# de gestion d'une bibliotheque")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Saad Mansouri")]
-[assembly: AssemblyProduct("GestionBiblio")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCompany("Chiheb BEN CHEIKH")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
